@@ -1,5 +1,5 @@
 === taboToggle: Hide Admin Bar Toggle ===
-Contributors: foundrstack
+Contributors: tabomango
 Tags: admin-bar, toolbar, ui
 Requires at least: 5.8
 Tested up to: 7.1
@@ -15,9 +15,7 @@ Adds a toggle in the admin bar to hide or show it.
 2. Admin bar hidden with floating restore button.
 
 == Description ==
-taboToggle: Hide Admin Bar Toggle adds a control to the right side of the admin bar. When hidden, a small floating button appears at the top right to restore the bar.
-
-It also adds a shared tabomango menu in the WordPress dashboard with the taboToggle settings page, a Get Support link, and a More Plugins link.
+taboToggle: Hide Admin Bar Toggle. Adds a control to the right side of the admin bar. When hidden, a small floating button appears at the top right to restore the bar. 
 
 == Installation ==
 1. Upload the plugin folder to /wp-content/plugins/
