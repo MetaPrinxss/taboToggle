@@ -50,7 +50,7 @@ final class FS_Hide_Admin_Bar_Toggle {
 			'manage_options',
 			self::PARENT_SLUG,
 			[ __CLASS__, 'render_parent_page' ],
-			'dashicons-admin-plugins',
+			'dashicons-superhero',
 			80
 		);
 	}
